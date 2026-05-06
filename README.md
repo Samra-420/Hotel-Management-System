@@ -114,7 +114,7 @@ This project uses Docker for containerization, ensuring consistent environment s
 
 1. Github repository:
 
-
+https://github.com/Samra-420/Hotel-Management-System
 
 
 2. Open in Visual Studio
