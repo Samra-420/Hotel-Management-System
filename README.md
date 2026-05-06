@@ -153,7 +153,7 @@ http://localhost:5000
 ![Login](login.png)
 
 ### 🏠 Home Dashboard
-![Home](home.png)
+![Home](home2.png)
 
 ### 🛏️ Rooms Page
 ![Rooms](rooms.png)
